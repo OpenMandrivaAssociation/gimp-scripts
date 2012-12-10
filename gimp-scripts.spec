@@ -28,3 +28,14 @@ cp -ar Presets %{buildroot}%{_datadir}/gimp/2.0/gimpressionist/Presets
 %files
 %{_datadir}/gimp/2.0/scripts/*
 %{_datadir}/gimp/2.0/gimpressionist/Presets/*
+
+
+%changelog
+* Mon May 14 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 40-1
++ Revision: 798788
+- update to release 40 for gimp 2.8
+
+* Sun Apr 15 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 38-1
++ Revision: 791167
+- imported package gimp-scripts
+
