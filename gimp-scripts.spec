@@ -3,7 +3,7 @@
 Name:		gimp-scripts
 Summary:	Collection of script-FUs for GIMP
 Version:	40
-Release:	1
+Release:	2
 License:	GPLv2+ and GPLv3+
 Group:		Graphics
 URL:		http://www.gimphelp.org
