@@ -6,7 +6,7 @@ Version:	40
 Release:	2
 License:	GPLv2+ and GPLv3+
 Group:		Graphics
-URL:		http://www.gimphelp.org
+URL:		https://www.gimphelp.org
 Source0:	http://www.gimphelp.org/DL/gimp_scripts-%{gimp_ver}.tar.bz2
 BuildArch:	noarch
 Requires:	gimp >= %{gimp_ver}
